@@ -4,7 +4,7 @@ This is a simple implementation of a convolutional neural network using JAX and 
 
 ## Requirements:
 
-- **JAX**: A high-performance machine learning library.
+- **JAX**: A high-performance machine learning library. [Documentation](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html)
 - **Flax**: A neural network library for JAX.
 - **optax**: A library for optimization routines, used in conjunction with JAX.
 - **tensorflow_datasets**: Library for easily accessing and manipulating datasets.
